@@ -126,3 +126,4 @@ curl -X DELETE http://localhost:3000/api/students/1
 - **Web services:** Next.js Route Handlers (REST API)
 - **Data store:** local JSON file (so the project runs with zero external setup)
 # assignment-2
+# assignment-2
