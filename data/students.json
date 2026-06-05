@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Ahmad Faiz",
+    "matric": "A21CS0001",
+    "course": "Software Engineering",
+    "email": "ahmad.faiz@graduate.utm.my",
+    "cgpa": 3.75
+  },
+  {
+    "id": "2",
+    "name": "Siti Nurhaliza",
+    "matric": "A21CS0002",
+    "course": "Computer Science",
+    "email": "siti.nurhaliza@graduate.utm.my",
+    "cgpa": 3.92
+  },
+  {
+    "id": "3",
+    "name": "Rajesh Kumar",
+    "matric": "A21CS0003",
+    "course": "Data Engineering",
+    "email": "rajesh.kumar@graduate.utm.my",
+    "cgpa": 3.60
+  }
+]
